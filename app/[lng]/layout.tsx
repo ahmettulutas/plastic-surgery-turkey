@@ -13,6 +13,7 @@ import './globals.css';
 //   weight: "100 900",
 // });
 import { Open_Sans } from 'next/font/google';
+import { Navbar } from '@/components/navbar';
 
 const openSans = Open_Sans({
   subsets: ['latin'],
@@ -33,8 +34,9 @@ export default function RootLayout({
     <html lang='en'>
       <body
         // className={`${openSans.variable} ${openSans.variable} antialiased`}
-        className={openSans.className}
+        className={`${openSans.className} bg-black text-white`}
       >
+        <Navbar />
         {children}
       </body>
     </html>

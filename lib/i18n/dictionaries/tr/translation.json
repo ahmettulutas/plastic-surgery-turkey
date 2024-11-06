@@ -1,0 +1,13 @@
+{
+  "language": "Dil",
+  "welcome": "Hoşgeldiniz",
+  "incorrectURL": "Yanlış bir URL'ye yönlendiniz",
+  "metaData": {
+    "pageTitle": "Aesthemed Plastik Cerrahi",
+    "pageDescription": "Türkiye'deki en güvenilir estetik cerrahi danışmanlık şirketine hoş geldiniz. Aesthemed.",
+    "applicationName": "Aesthemed Plastik Cerrahi Açılış Sayfası",
+    "category": "sağlık | güzellik | plastik-cerrahi | estetik-cerrahi | klinik Türkiye | Türk plastik cerrahi kliniği",
+    "twitterImageAlt": "Twitter Görsel Alternatif",
+    "ogImageAlt": "OG Görsel Alternatif"
+  }
+}
